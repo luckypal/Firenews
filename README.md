@@ -1,8 +1,3 @@
-### Important
-```
-Under NDA sign, we can't public source and requirement documents, but you can check project under agreement.
-```
-
 # Firenews
 Full functional news app with admin panel Firebase Firestore & Ionic Framework
 
